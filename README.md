@@ -14,7 +14,6 @@
     - 뷰티포인트
     - 롯데호텔
 <br>
-<br>
 
 # 이민혁
 ### 사용자 경험에 도움되는 인터랙션을 구현하는걸 좋아하는 iOS 개발자입니다. 
@@ -34,7 +33,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, RxSwift, Bluetooth, NFC
 
-<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/52time.gif">
+<img width="160" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/52time.gif">
 
 ### 롯데리조트
 실시간 리조트 예약
@@ -42,8 +41,7 @@
 - 소속 : 애드캡슐소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
-![](https://raw.githubusercontent.com/minss0803/resume/master/images/resort_1.PNG)
-![](https://raw.githubusercontent.com/minss0803/resume/master/images/resort_2.PNG)
+<img src="images/resort_1.PNG" width="160"/><img src="images/resort_2.PNG" width="160"/><img src="images/resort_3.PNG" width="160"/>
 
 ### 롯데백화점
 쇼핑컨시어지, 사은행사, 쿠폰, Lpoint연동
@@ -52,7 +50,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, NotificationExtension
 
-<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/lotteDept.gif">
+<img width="160" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/lotteDept.gif">
 
 ### 컬러테일러
 사진 속 립스틱 추출 및 제안
@@ -61,7 +59,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
 
-<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/colorTailor.jpeg">
+<img width="160" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/colorTailor.jpeg">
 
 ### Mwave
 K-Pop 온라인 투표 플랫폼
@@ -70,7 +68,7 @@ K-Pop 온라인 투표 플랫폼
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
 
-<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/mwave.jpeg">
+<img width="160" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/mwave.jpeg">
 
 ### 롯데렌터카
 렌터카 모바일 예약 앱
