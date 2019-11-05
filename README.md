@@ -37,7 +37,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, RxSwift, Bluetooth, NFC
 
-<img width="200" alt="image" src="https://user-images.githubusercontent.com/13097922/52127451-7061d680-2675-11e9-976b-6d2de1cc6e78.JPG">
+<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/52time.gif">
 
 ### 롯데리조트
 실시간 리조트 예약
@@ -45,7 +45,8 @@
 - 소속 : 애드캡슐소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
-
+![](https://raw.githubusercontent.com/minss0803/resume/master/images/resort_1.PNG)
+![](https://raw.githubusercontent.com/minss0803/resume/master/images/resort_2.PNG)
 
 ### 롯데백화점
 쇼핑컨시어지, 사은행사, 쿠폰, Lpoint연동
@@ -54,7 +55,7 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift, NotificationExtension
 
-<img width="200" alt="image" src="https://github.com/JeaSungLEE/resume/blob/master/IMAGE/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-05-14%20at%2016.37.52.png">
+<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/lotteDept.gif">
 
 ### 컬러테일러
 사진 속 립스틱 추출 및 제안
@@ -63,12 +64,16 @@
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
 
+<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/colorTailor.jpeg">
+
 ### Mwave
 K-Pop 온라인 투표 플랫폼
 - 기간 : 2017.07-2017.10
 - 소속 : 애드캡슐소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
+
+<img width="320" alt="image" src="https://raw.githubusercontent.com/minss0803/resume/master/images/mwave.jpeg">
 
 ### 롯데렌터카
 렌터카 모바일 예약 앱
@@ -105,20 +110,9 @@ K-Pop 온라인 투표 플랫폼
 - 역할 : Android 앱 운영
 - 사용기술 : ObjectiveC
 
-### 뷰티포인트
-아모레퍼시픽 통합 멤버쉽 서비스
-- 기간 : 2016.04-2016.11 
-- 소속 : 애드캡슐소프트
-- 역할 : Android 앱 운영
-- 사용기술 : ObjectiveC
-
 ### 롯데호텔
 롯데호텔예약 서비스
 - 기간 : 2016.01-2016.03
 - 소속 : 애드캡슐소프트
 - 역할 : Android 앱 개발
 - 사용기술 : ObjectiveC
-
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0588.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0589.PNG)
-![](https://github.com/kaskay/intro/blob/master/IMAGE/IMG_0590.PNG)
