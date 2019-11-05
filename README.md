@@ -2,7 +2,7 @@
 - [경력](https://github.com/minss0803/resume#애드캡슐소프트)
      - 애드캡슐소프트
      
-- [회사 프로젝트](https://github.com/JeaSungLEE/resume#회사-프로젝트)
+- [회사 프로젝트](https://github.com/minss0803/resume#회사-프로젝트)
     - 52TIME
     - 롯데리조트
     - 롯데백화점
@@ -20,15 +20,12 @@
 ### 사용자 경험에 도움되는 인터랙션을 구현하는걸 좋아하는 iOS 개발자입니다. 
 
 <br>
-<br>
 
 # 경력
 [애드캡슐소프트](http://www.adcapsule.co.kr/)
 - 2016.01 ~ 
 
 # 프로젝트
-## 개인 프로젝트
-
 ## 회사 프로젝트
 ### 52TIME
 주52시간제에 맞춘 출퇴근 관리
