@@ -17,7 +17,6 @@
 
 # 이민혁
 ### 사용자 경험에 도움되는 인터랙션을 구현하는걸 좋아하는 iOS 개발자입니다. 
-
 <br>
 
 # 경력
@@ -41,6 +40,7 @@
 - 소속 : 애드캡슐소프트
 - 역할 : iOS 앱 개발
 - 사용기술 : Swift
+
 <img src="images/resort_1.PNG" width="160"/><img src="images/resort_2.PNG" width="160"/><img src="images/resort_3.PNG" width="160"/>
 
 ### 롯데백화점
